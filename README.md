@@ -1,4 +1,4 @@
-# Hi, I'm Azel Thong 👋
+# Hi, I'm Azel Thong 
 
 Software Developer with an interest in **full-stack development, cybersecurity, secure application development, and information systems**.
 
