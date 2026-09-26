@@ -1,6 +1,6 @@
 # Hi, I'm Azel Thong
 
-Software Developer with interests in full-stack development, cybersecurity, secure application development, and information systems.
+Software Developer with interests in **full-stack development, cybersecurity, secure application development, and information systems**.
 
 I enjoy building practical software, exploring application security, and developing projects that combine technical problem-solving with real-world use cases.
 
@@ -26,18 +26,18 @@ I enjoy building practical software, exploring application security, and develop
 ### Cybersecurity
 `Authentication` `Authorization` `TOTP/2FA` `Network Security` `Linux` `Detection & Response`
 
-### Tools
-`Git` `GitHub` `VS Code` `Arduino`
+### Tools & Platforms
+`Git` `GitHub` `VS Code` `Arduino` `Vercel`
 
 ## Featured Projects
 
 ### Personal Developer Portfolio
 
-My developer portfolio built with Next.js, React, TypeScript, and Tailwind CSS.
+Personal developer portfolio built with Next.js, React, TypeScript, and Tailwind CSS.
 
 Features include responsive design, dynamic project pages, SEO metadata, scroll animations, project media, and direct links to my technical work.
 
-[View Portfolio](https://azel-portfolio-psi.vercel.app)  
+[View Live Portfolio](https://azel-portfolio-psi.vercel.app)  
 [View Repository](https://github.com/azelthong/azel-portfolio)
 
 ---
@@ -70,13 +70,13 @@ Blackjack game built with Python and Pygame featuring a persistent four-deck sho
 
 ## Currently Building
 
-### Table Scout / Food Options Application
+### Table Scout
 
 A full-stack food discovery and tracking application designed to help users save, organise, rate, and revisit restaurants and dining experiences.
 
 Currently in active development with plans for persistent storage, authentication, recommendation features, and eventual public release.
 
-Source code is currently private while the application is being developed.
+The production source code is currently private while the application is being developed.
 
 ## Certifications
 
