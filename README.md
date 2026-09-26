@@ -1,16 +1,16 @@
-# Hi, I'm Azel Thong 
+# Hi, I'm Azel Thong
 
-Software Developer with an interest in **full-stack development, cybersecurity, secure application development, and information systems**.
+Software Developer with interests in full-stack development, cybersecurity, secure application development, and information systems.
 
-I enjoy building practical software, exploring application security, and developing systems that solve real-world problems.
+I enjoy building practical software, exploring application security, and developing projects that combine technical problem-solving with real-world use cases.
 
 ## About Me
 
-- Software Developer at RDC Media
-- Electronic & Computer Engineering graduate from Nanyang Polytechnic
-- Incoming Information Systems student at Singapore Management University
-- Interested in Software Engineering and Cybersecurity
 - Based in Singapore
+- Diploma in Electronic and Computer Engineering from Nanyang Polytechnic
+- Incoming Information Systems student at Singapore Management University
+- Software Developer at RDC Media
+- Interested in software development, cybersecurity, and secure systems
 
 ## Technologies
 
@@ -18,36 +18,67 @@ I enjoy building practical software, exploring application security, and develop
 `Python` `TypeScript` `JavaScript` `SQL` `C++` `C#` `C`
 
 ### Web Development
-`React` `Next.js` `Tailwind CSS`
+`Next.js` `React` `HTML` `CSS` `Tailwind CSS`
 
 ### Backend & Databases
 `PostgreSQL` `Supabase` `REST APIs`
 
 ### Cybersecurity
-`Authentication` `Authorization` `RBAC` `TOTP / 2FA`  
-`Network Security` `Application Security` `Detection & Response`
+`Authentication` `Authorization` `TOTP/2FA` `Network Security` `Linux` `Detection & Response`
 
 ### Tools
-`Git` `GitHub` `VS Code` `Linux` `Arduino`
+`Git` `GitHub` `VS Code` `Arduino`
 
 ## Featured Projects
 
-### Table Scout
-A food discovery and restaurant tracking application built with Next.js, React, TypeScript, and Tailwind CSS.
+### Personal Developer Portfolio
+
+My developer portfolio built with Next.js, React, TypeScript, and Tailwind CSS.
+
+Features include responsive design, dynamic project pages, SEO metadata, scroll animations, project media, and direct links to my technical work.
+
+[View Portfolio](https://azel-portfolio-psi.vercel.app)  
+[View Repository](https://github.com/azelthong/azel-portfolio)
+
+---
 
 ### Two-Factor Authentication System
-A Python authentication project implementing time-based one-time passwords using PyOTP and QR-code based authenticator enrolment.
+
+Python implementation of Time-Based One-Time Password authentication using PyOTP and QR-code based authenticator enrolment.
+
+Features include disposable TOTP secret generation, QR enrolment, six-digit OTP verification, and secure handling of temporary authentication material.
+
+[View Repository](https://github.com/azelthong/two-factor-authentication)
+
+---
 
 ### Chess Application
-An interactive chess application built with Python and Pygame featuring movement validation, captures, turn management, and check detection.
+
+Interactive chess application built with Python and Pygame.
+
+Includes legal move validation, king-safety checks, checkmate and stalemate detection, castling, en passant, pawn promotion, and turn-based gameplay.
+
+[View Repository](https://github.com/azelthong/chess-pygame)
+
+---
 
 ### Blackjack Game
-A Python/Pygame Blackjack application with multi-deck management, hand evaluation, dealer logic, and game-result tracking.
 
-### Personal Portfolio
-My personal developer portfolio built using Next.js, React, TypeScript, and Tailwind CSS.
+Blackjack game built with Python and Pygame featuring a persistent four-deck shoe, automated dealer behaviour, natural Blackjack detection, dynamic Ace scoring, and win/loss tracking.
 
-## Cybersecurity Certifications
+[View Repository](https://github.com/azelthong/blackjack-pygame)
+
+## Currently Building
+
+### Table Scout / Food Options Application
+
+A full-stack food discovery and tracking application designed to help users save, organise, rate, and revisit restaurants and dining experiences.
+
+Currently in active development with plans for persistent storage, authentication, recommendation features, and eventual public release.
+
+Source code is currently private while the application is being developed.
+
+## Certifications
 
 - Google Cybersecurity Professional Certificate
 - HarvardX — CS50's Introduction to Cybersecurity
@@ -55,6 +86,7 @@ My personal developer portfolio built using Next.js, React, TypeScript, and Tail
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/azel-thong-532084274/
-- Portfolio: Coming soon
+- [Portfolio](https://azel-portfolio-psi.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/azel-thong-532084274/)
+- [GitHub](https://github.com/azelthong)
 - Email: azelthong@gmail.com
